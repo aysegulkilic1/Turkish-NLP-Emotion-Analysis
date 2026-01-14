@@ -5,7 +5,7 @@ Bu proje, e-ticaret sitelerinden gelen müşteri yorumlarını analiz etmek, duy
 Müşteri geri bildirimlerini manuel olarak okumak yerine; **Yapay Zeka** ve **Kural Tabanlı** algoritmaları birleştirerek otomatik, hızlı ve ölçülebilir bir raporlama sistemi oluşturmaktır.
 
 ## Kullanılan Teknolojiler ve Yöntemler
-* **Python 3.9+**
+* **Python**
 * **Hugging Face Transformers:** Türkçe için eğitilmiş `savasy/bert-base-turkish-sentiment-cased` modeli kullanıldı.
 * **Pandas:** Veri manipülasyonu ve raporlama için kullanıldı.
 * **Hibrit Mimari:**
